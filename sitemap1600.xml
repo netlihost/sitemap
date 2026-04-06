@@ -6,21 +6,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://qqflix.top/browse</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://qqflix.top/watch</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://qqflix.top/profile</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://qqflix.top/watch/1523145</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
