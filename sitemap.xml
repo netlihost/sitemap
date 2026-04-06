@@ -6,27 +6,27 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://qqflix.eu.cc/discover/trending</loc>
+    <loc>https://qqflix.top/discover/trending</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://qqflix.eu.cc/terms</loc>
+    <loc>https://qqflix.top/terms</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://qqflix.eu.cc/contact</loc>
+    <loc>https://qqflix.top/contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
     <url>
-    <loc>https://qqflix.eu.cc/privacy</loc>
+    <loc>https://qqflix.top/privacy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
     <url>
-    <loc>https://qqflix.eu.cc/cookies</loc>
+    <loc>https://qqflix.top/cookies</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
